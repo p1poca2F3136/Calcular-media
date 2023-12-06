@@ -31,5 +31,3 @@ Sinta-se à vontade para personalizar o código conforme suas necessidades. Algu
 - **Melhorar a interface**: Utilize bibliotecas gráficas ou métodos para aprimorar a experiência do usuário.
 
 - **Tratamento de erros**: Aprimore o tratamento de erros para lidar com diferentes situações de entrada.
-
-Lembre-se de explorar e experimentar! Divirta-se calculando médias escolares.
