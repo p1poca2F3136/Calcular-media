@@ -7,8 +7,7 @@ Este é um programa simples em Python que calcula a média escolar com base em d
 1. Clone o repositório para o seu ambiente local.
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/p1poca2F3136/Calcular-media/blob/main/main.py
     ```
 
 2. Certifique-se de ter Python instalado em seu sistema.
