@@ -15,7 +15,7 @@ Este é um programa simples em Python que calcula a média escolar com base em d
 3. Execute o programa:
 
     ```bash
-    python nome-do-programa.py
+    python main.py
     ```
 
 4. Siga as instruções para inserir as notas do aluno.
